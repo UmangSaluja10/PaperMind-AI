@@ -1,0 +1,9 @@
+flask>=3.0
+flask-cors>=4.0
+pymupdf>=1.24
+faiss-cpu>=1.8
+numpy>=1.26
+torch>=2.2
+transformers>=4.40
+sentence-transformers>=6.2
+pytest>=8.0

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+node_modules/
+dist/
+backend/data/
+backend/models/*
+!backend/models/.gitkeep
+.env
+*.zip
